@@ -1,0 +1,556 @@
+2025-12-19 12:03:06 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\Snehal\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-12-19 12:03:11 - automation - INFO - ********** Test_001_Login **********
+2025-12-19 12:03:11 - automation - INFO - ********** Verifying Home Page Title **********
+2025-12-19 12:03:14 - automation - INFO - ********** Home Page Title Test Passed **********
+2025-12-19 12:03:14 - automation - INFO - ********** Verifying Login Test **********
+2025-12-19 12:03:19 - automation - INFO - ********** Login Test Passed **********
+2025-12-19 12:37:30 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\Snehal\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-12-19 12:37:35 - automation - INFO - ********** Test_001_Login **********
+2025-12-19 12:37:35 - automation - INFO - ********** Verifying Home Page Title **********
+2025-12-19 12:37:37 - automation - INFO - ********** Home Page Title Test Passed **********
+2025-12-19 12:37:38 - automation - INFO - ********** Verifying Login Test **********
+2025-12-19 12:37:42 - automation - INFO - ********** Login Test Passed **********
+2025-12-19 12:38:14 - automation - INFO - Launching Chrome browser
+2025-12-19 12:38:17 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\Snehal\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-12-19 12:38:21 - automation - INFO - ********** Test_001_Login **********
+2025-12-19 12:38:21 - automation - INFO - ********** Verifying Home Page Title **********
+2025-12-19 12:38:24 - automation - INFO - ********** Home Page Title Test Passed **********
+2025-12-19 12:38:24 - automation - INFO - Launching Chrome browser
+2025-12-19 12:38:24 - automation - INFO - ********** Verifying Login Test **********
+2025-12-19 12:38:28 - automation - INFO - ********** Login Test Passed **********
+2025-12-19 12:39:26 - automation - INFO - Launching default Chrome browser
+2025-12-19 12:39:29 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\Snehal\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-12-19 12:39:34 - automation - INFO - ********** Test_001_Login **********
+2025-12-19 12:39:34 - automation - INFO - ********** Verifying Home Page Title **********
+2025-12-19 12:39:36 - automation - INFO - ********** Home Page Title Test Passed **********
+2025-12-19 12:39:36 - automation - INFO - Launching default Chrome browser
+2025-12-19 12:39:36 - automation - INFO - ********** Verifying Login Test **********
+2025-12-19 12:39:40 - automation - INFO - ********** Login Test Passed **********
+2025-12-19 12:42:20 - automation - INFO - Launching default Chrome browser
+2025-12-19 12:42:23 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\Snehal\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-12-19 12:42:28 - automation - INFO - ********** Test_001_Login **********
+2025-12-19 12:42:28 - automation - INFO - ********** Verifying Home Page Title **********
+2025-12-19 12:42:29 - automation - INFO - ********** Home Page Title Test Passed **********
+2025-12-19 12:42:29 - automation - INFO - Launching default Chrome browser
+2025-12-19 12:42:29 - automation - INFO - ********** Verifying Login Test **********
+2025-12-19 12:42:34 - automation - INFO - ********** Login Test Passed **********
+2025-12-19 12:44:36 - automation - INFO - Launching Chrome browser
+2025-12-19 12:44:41 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\Snehal\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-12-19 12:44:46 - automation - INFO - ********** Test_001_Login **********
+2025-12-19 12:44:46 - automation - INFO - ********** Verifying Home Page Title **********
+2025-12-19 12:44:47 - automation - INFO - ********** Home Page Title Test Passed **********
+2025-12-19 12:44:47 - automation - INFO - Launching Chrome browser
+2025-12-19 12:44:48 - automation - INFO - ********** Verifying Login Test **********
+2025-12-19 12:44:52 - automation - INFO - ********** Login Test Passed **********
+2025-12-19 12:46:58 - automation - INFO - Launching Chrome browser with UC
+2025-12-19 12:47:01 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\Snehal\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-12-19 12:47:07 - automation - INFO - ********** Test_001_Login **********
+2025-12-19 12:47:07 - automation - INFO - ********** Verifying Home Page Title **********
+2025-12-19 12:47:08 - automation - INFO - ********** Home Page Title Test Passed **********
+2025-12-19 12:47:08 - automation - INFO - Launching Chrome browser with UC
+2025-12-19 12:47:09 - automation - INFO - ********** Verifying Login Test **********
+2025-12-19 12:47:14 - automation - INFO - ********** Login Test Passed **********
+2025-12-19 12:57:11 - automation - INFO - Launching Chrome browser with UC
+2025-12-19 12:57:16 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\Snehal\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-12-19 12:57:20 - automation - INFO - ********** Test_001_Login **********
+2025-12-19 12:57:20 - automation - INFO - ********** Verifying Home Page Title **********
+2025-12-19 12:57:22 - automation - INFO - ********** Home Page Title Test Passed **********
+2025-12-19 12:57:22 - automation - INFO - Launching Chrome browser with UC
+2025-12-19 12:57:22 - automation - INFO - ********** Verifying Login Test **********
+2025-12-19 12:57:26 - automation - INFO - ********** Login Test Passed **********
+2025-12-19 12:58:13 - automation - INFO - Launching Edge browser
+2025-12-19 12:58:18 - automation - INFO - ********** Test_001_Login **********
+2025-12-19 12:58:18 - automation - INFO - ********** Verifying Home Page Title **********
+2025-12-19 12:58:19 - automation - INFO - ********** Home Page Title Test Passed **********
+2025-12-19 12:58:19 - automation - INFO - Launching Edge browser
+2025-12-19 12:58:20 - automation - INFO - ********** Verifying Login Test **********
+2025-12-19 12:59:04 - automation - INFO - Launching Edge browser
+2025-12-19 12:59:05 - automation - INFO - ********** Test_001_Login **********
+2025-12-19 12:59:05 - automation - INFO - ********** Verifying Home Page Title **********
+2025-12-19 12:59:08 - automation - INFO - ********** Home Page Title Test Passed **********
+2025-12-19 12:59:08 - automation - INFO - Launching Edge browser
+2025-12-19 12:59:09 - automation - INFO - ********** Verifying Login Test **********
+2025-12-19 13:02:51 - automation - INFO - Launching Edge browser
+2025-12-19 13:02:54 - automation - INFO - Launching Edge browser
+2025-12-19 13:06:52 - automation - INFO - Launching Edge browser
+2025-12-19 13:06:52 - WDM - INFO - ====== WebDriver manager ======
+2025-12-19 13:06:54 - WDM - INFO - Get LATEST edgedriver version for Edge 143.0.3650
+2025-12-19 13:06:55 - automation - INFO - Launching Edge browser
+2025-12-19 13:06:55 - WDM - INFO - ====== WebDriver manager ======
+2025-12-19 13:06:57 - WDM - INFO - Get LATEST edgedriver version for Edge 143.0.3650
+2025-12-22 12:13:07 - automation - INFO - Launching Edge browser
+2025-12-22 12:13:07 - WDM - INFO - ====== WebDriver manager ======
+2025-12-22 12:13:10 - WDM - INFO - Get LATEST edgedriver version for Edge 143.0.3650
+2025-12-22 12:13:10 - automation - INFO - Launching Edge browser
+2025-12-22 12:13:10 - WDM - INFO - ====== WebDriver manager ======
+2025-12-22 12:13:13 - WDM - INFO - Get LATEST edgedriver version for Edge 143.0.3650
+2025-12-22 12:14:06 - automation - INFO - Launching Edge browser
+2025-12-22 12:14:09 - automation - INFO - Launching Edge browser
+2025-12-22 12:23:12 - automation - INFO - Launching Edge browser
+2025-12-22 12:23:13 - automation - INFO - ********** Test_001_Login **********
+2025-12-22 12:23:13 - automation - INFO - ********** Verifying Home Page Title **********
+2025-12-22 12:23:15 - automation - INFO - ********** Home Page Title Test Passed **********
+2025-12-22 12:23:15 - automation - INFO - Closing browser
+2025-12-22 12:23:17 - automation - INFO - Launching Edge browser
+2025-12-22 12:23:18 - automation - INFO - ********** Verifying Login Test **********
+2025-12-22 12:23:33 - automation - INFO - Closing browser
+2025-12-22 12:25:22 - automation - INFO - Launching Chrome browser
+2025-12-22 12:26:08 - automation - INFO - ********** Test_001_Login **********
+2025-12-22 12:26:08 - automation - INFO - ********** Verifying Home Page Title **********
+2025-12-22 12:26:10 - automation - INFO - ********** Home Page Title Test Passed **********
+2025-12-22 12:26:10 - automation - INFO - Closing browser
+2025-12-22 12:26:12 - automation - INFO - Launching Chrome browser
+2025-12-22 12:26:13 - automation - INFO - ********** Verifying Login Test **********
+2025-12-22 12:26:22 - automation - INFO - Closing browser
+2025-12-22 12:27:29 - automation - INFO - Launching Chrome browser with UC
+2025-12-22 12:27:52 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\Snehal\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-12-22 12:27:57 - automation - INFO - ********** Test_001_Login **********
+2025-12-22 12:27:57 - automation - INFO - ********** Verifying Home Page Title **********
+2025-12-22 12:27:59 - automation - INFO - ********** Home Page Title Test Passed **********
+2025-12-22 12:27:59 - automation - INFO - Launching Chrome browser with UC
+2025-12-22 12:27:59 - automation - INFO - ********** Verifying Login Test **********
+2025-12-22 12:28:05 - automation - INFO - ********** Login Test Passed **********
+2025-12-23 10:04:05 - automation - INFO - Launching Chrome browser with UC
+2025-12-23 10:04:09 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\Snehal\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-12-23 10:04:14 - automation - INFO - ********** Test_001_Login **********
+2025-12-23 10:04:14 - automation - INFO - ********** Verifying Home Page Title **********
+2025-12-23 10:04:16 - automation - INFO - ********** Home Page Title Test Passed **********
+2025-12-23 10:04:16 - automation - INFO - Launching Chrome browser with UC
+2025-12-23 10:04:17 - automation - INFO - ********** Verifying Login Test **********
+2025-12-23 10:04:22 - automation - INFO - ********** Login Test Passed **********
+2025-12-23 10:04:54 - automation - WARNING - Unknown browser 'fireforx', defaulting to Chrome
+2025-12-23 10:04:57 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\Snehal\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-12-23 10:05:02 - automation - INFO - ********** Test_001_Login **********
+2025-12-23 10:05:02 - automation - INFO - ********** Verifying Home Page Title **********
+2025-12-23 10:05:05 - automation - INFO - ********** Home Page Title Test Passed **********
+2025-12-23 10:05:05 - automation - WARNING - Unknown browser 'fireforx', defaulting to Chrome
+2025-12-23 10:05:05 - automation - INFO - ********** Verifying Login Test **********
+2025-12-23 10:05:10 - automation - INFO - ********** Login Test Passed **********
+2025-12-23 10:05:20 - automation - INFO - Launching Firefox browser
+2025-12-23 10:06:33 - automation - INFO - ********** Test_001_Login **********
+2025-12-23 10:06:33 - automation - INFO - ********** Verifying Home Page Title **********
+2025-12-23 10:06:37 - automation - INFO - ********** Home Page Title Test Passed **********
+2025-12-23 10:06:37 - automation - INFO - Launching Firefox browser
+2025-12-23 10:06:45 - automation - INFO - ********** Verifying Login Test **********
+2025-12-23 10:06:52 - automation - INFO - ********** Login Test Passed **********
+2025-12-23 10:07:23 - automation - INFO - Launching Edge browser
+2025-12-23 10:07:25 - automation - INFO - ********** Test_001_Login **********
+2025-12-23 10:07:25 - automation - INFO - ********** Verifying Home Page Title **********
+2025-12-23 10:07:27 - automation - INFO - ********** Home Page Title Test Passed **********
+2025-12-23 10:07:27 - automation - INFO - Launching Edge browser
+2025-12-23 10:07:28 - automation - INFO - ********** Verifying Login Test **********
+2025-12-23 10:11:03 - automation - INFO - Launching Internet Explorer browser
+2025-12-23 10:11:03 - automation - WARNING - Internet Explorer is deprecated and may not be supported in future releases.
+2025-12-23 10:11:10 - automation - INFO - ********** Test_001_Login **********
+2025-12-23 10:11:10 - automation - INFO - ********** Verifying Home Page Title **********
+2025-12-23 10:12:06 - automation - INFO - Launching Internet Explorer browser
+2025-12-23 10:12:06 - automation - INFO - Launching Internet Explorer browser
+2025-12-23 10:12:14 - automation - INFO - Launching Internet Explorer browser
+2025-12-23 10:12:15 - automation - INFO - Launching Internet Explorer browser
+2025-12-23 10:12:25 - automation - INFO - Launching Internet Explorer browser
+2025-12-23 10:12:28 - automation - INFO - ********** Test_001_Login **********
+2025-12-23 10:12:28 - automation - INFO - ********** Verifying Home Page Title **********
+2025-12-23 10:14:29 - automation - INFO - Launching Internet Explorer browser
+2025-12-23 10:14:32 - automation - INFO - ********** Verifying Login Test **********
+2025-12-23 10:27:48 - automation - INFO - Launching Chrome browser with UC
+2025-12-23 10:27:48 - automation - INFO - Launching Chrome browser with UC
+2025-12-23 10:28:00 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\Snehal\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-12-23 10:28:05 - automation - INFO - ********** Test_001_Login **********
+2025-12-23 10:28:05 - automation - INFO - ********** Verifying Home Page Title **********
+2025-12-23 10:28:09 - automation - INFO - ********** Home Page Title Test Passed **********
+2025-12-23 10:29:24 - automation - INFO - Launching Chrome browser with UC
+2025-12-23 10:29:35 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\Snehal\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-12-23 10:29:40 - automation - INFO - ********** Verifying Login Test **********
+2025-12-23 10:29:45 - automation - INFO - ********** Login Test Passed **********
+2025-12-23 10:30:30 - automation - INFO - Launching Firefox browser
+2025-12-23 10:30:30 - automation - INFO - Launching Firefox browser
+2025-12-23 10:30:40 - automation - INFO - ********** Test_001_Login **********
+2025-12-23 10:30:40 - automation - INFO - ********** Verifying Home Page Title **********
+2025-12-23 10:30:41 - automation - INFO - ********** Verifying Login Test **********
+2025-12-23 10:30:44 - automation - INFO - ********** Home Page Title Test Passed **********
+2025-12-23 10:30:50 - automation - INFO - ********** Login Test Passed **********
+2025-12-23 10:30:59 - automation - INFO - Launching Chrome browser with UC
+2025-12-23 10:30:59 - automation - INFO - Launching Chrome browser with UC
+2025-12-23 10:31:12 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\Snehal\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-12-23 10:31:18 - automation - INFO - ********** Verifying Login Test **********
+2025-12-23 10:31:30 - automation - INFO - ********** Login Test Passed **********
+2025-12-23 10:34:17 - automation - INFO - Launching Chrome browser with UC
+2025-12-23 10:34:53 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\Snehal\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-12-23 10:34:58 - automation - INFO - ********** Verifying Login Test **********
+2025-12-23 10:35:07 - automation - INFO - ********** Login Test Passed **********
+2025-12-23 10:37:28 - automation - INFO - Launching Chrome browser with UC
+2025-12-23 10:37:28 - automation - INFO - Launching Chrome browser with UC
+2025-12-23 10:37:38 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\Snehal\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-12-23 10:37:43 - automation - INFO - ********** Verifying Login Test **********
+2025-12-23 10:37:50 - automation - INFO - ********** Login Test Passed **********
+2025-12-23 10:39:25 - automation - INFO - Launching Chrome browser with UC
+2025-12-23 10:39:25 - automation - INFO - Launching Chrome browser with UC
+2025-12-23 10:39:36 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\Snehal\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-12-23 10:39:41 - automation - INFO - ********** Verifying Login Test **********
+2025-12-23 10:40:44 - automation - INFO - Launching Chrome browser with UC
+2025-12-23 10:40:55 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\Snehal\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-12-23 10:41:00 - automation - INFO - ********** Test_001_Login **********
+2025-12-23 10:41:00 - automation - INFO - ********** Verifying Home Page Title **********
+2025-12-23 10:41:02 - automation - INFO - ********** Home Page Title Test Passed **********
+2025-12-23 10:42:42 - automation - INFO - Launching Chrome browser with UC
+2025-12-23 10:42:42 - automation - INFO - Launching Chrome browser with UC
+2025-12-23 10:42:57 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\Snehal\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-12-23 10:43:02 - automation - INFO - ********** Verifying Login Test **********
+2025-12-23 10:43:10 - automation - INFO - ********** Login Test Passed **********
+2025-12-23 10:45:00 - automation - INFO - Launching Chrome browser with UC (worker gw0)
+2025-12-23 10:45:00 - automation - INFO - Launching Chrome browser with UC (worker gw1)
+2025-12-23 10:45:07 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\Snehal\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-12-23 10:45:12 - automation - INFO - ********** Verifying Login Test **********
+2025-12-23 10:46:21 - automation - INFO - Launching Chrome browser with UC
+2025-12-23 10:46:21 - automation - INFO - Launching Chrome browser with UC
+2025-12-23 10:46:47 - automation - INFO - ********** Test_001_Login **********
+2025-12-23 10:46:47 - automation - INFO - ********** Verifying Home Page Title **********
+2025-12-23 10:46:50 - automation - INFO - ********** Home Page Title Test Passed **********
+2025-12-23 10:46:51 - automation - INFO - ********** Verifying Login Test **********
+2025-12-23 10:47:58 - automation - INFO - Launching Chrome browser with UC
+2025-12-23 10:47:58 - automation - INFO - Launching Chrome browser with UC
+2025-12-23 10:48:01 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\Snehal\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-12-23 10:48:06 - automation - INFO - ********** Verifying Login Test **********
+2025-12-23 10:48:12 - automation - INFO - ********** Login Test Passed **********
+2025-12-23 10:52:59 - automation - INFO - Launching Chrome browser with UC
+2025-12-23 10:52:59 - automation - INFO - Launching Chrome browser with UC
+2025-12-23 10:53:50 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\Snehal\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-12-23 10:53:55 - automation - INFO - ********** Verifying Login Test **********
+2025-12-23 10:54:03 - automation - INFO - ********** Login Test Passed **********
+2025-12-23 10:54:03 - automation - INFO - Closing browser
+2025-12-23 11:00:53 - automation - INFO - Launching Chrome browser with UC
+2025-12-23 11:00:58 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\Snehal\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-12-23 11:01:03 - automation - INFO - ********** Test_001_Login **********
+2025-12-23 11:01:03 - automation - INFO - ********** Verifying Home Page Title **********
+2025-12-23 11:01:05 - automation - INFO - ********** Home Page Title Test Passed **********
+2025-12-23 11:01:05 - automation - INFO - Launching Chrome browser with UC
+2025-12-23 11:01:06 - automation - INFO - ********** Verifying Login Test **********
+2025-12-23 11:01:12 - automation - INFO - ********** Login Test Passed **********
+2025-12-23 11:06:18 - automation - INFO - Cleaned up pytest HTML report metadata
+2025-12-23 11:08:58 - automation - INFO - Cleaned up pytest HTML report metadata
+2025-12-23 11:12:29 - automation - INFO - Customized pytest HTML report title
+2025-12-23 11:12:29 - automation - INFO - Customized pytest HTML report table header
+2025-12-23 11:12:29 - automation - INFO - Added custom metadata to pytest HTML report summary
+2025-12-23 11:12:42 - automation - INFO - Customized pytest HTML report title
+2025-12-23 11:12:42 - automation - INFO - Customized pytest HTML report table header
+2025-12-23 11:12:42 - automation - INFO - Added custom metadata to pytest HTML report summary
+2025-12-23 11:13:07 - automation - INFO - Launching Chrome browser with UC
+2025-12-23 11:13:12 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\Snehal\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-12-23 11:13:17 - automation - INFO - ********** Test_001_Login **********
+2025-12-23 11:13:17 - automation - INFO - ********** Verifying Home Page Title **********
+2025-12-23 11:13:21 - automation - INFO - ********** Home Page Title Test Passed **********
+2025-12-23 11:13:21 - automation - INFO - Launching Chrome browser with UC
+2025-12-23 11:13:22 - automation - INFO - ********** Verifying Login Test **********
+2025-12-23 11:13:28 - automation - INFO - ********** Login Test Passed **********
+2025-12-23 11:17:49 - automation - INFO - Cleaned up pytest HTML report metadata
+2025-12-23 11:17:49 - automation - INFO - Configured pytest HTML report metadata
+2025-12-23 11:18:18 - automation - INFO - Cleaned up pytest HTML report metadata
+2025-12-23 11:18:18 - automation - INFO - Configured pytest HTML report metadata
+2025-12-23 11:20:23 - automation - INFO - Cleaned up pytest HTML report metadata
+2025-12-23 11:20:23 - automation - INFO - Configured pytest HTML report metadata
+2025-12-23 11:20:55 - automation - INFO - Cleaned up pytest HTML report metadata
+2025-12-23 11:20:55 - automation - INFO - Configured pytest HTML report metadata
+2025-12-23 11:20:55 - automation - INFO - Launching Chrome browser with UC
+2025-12-23 11:21:00 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\Snehal\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-12-23 11:21:05 - automation - INFO - ********** Test_001_Login **********
+2025-12-23 11:21:05 - automation - INFO - ********** Verifying Home Page Title **********
+2025-12-23 11:21:08 - automation - INFO - ********** Home Page Title Test Passed **********
+2025-12-23 11:21:08 - automation - INFO - Launching Chrome browser with UC
+2025-12-23 11:21:09 - automation - INFO - ********** Verifying Login Test **********
+2025-12-23 11:21:15 - automation - INFO - ********** Login Test Passed **********
+2025-12-23 11:23:09 - automation - INFO - Cleaned up pytest HTML report metadata
+2025-12-23 11:23:09 - automation - INFO - Configured pytest HTML report metadata
+2025-12-23 11:23:09 - automation - INFO - Launching Chrome browser with UC
+2025-12-23 11:23:15 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\Snehal\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-12-23 11:23:20 - automation - INFO - ********** Test_001_Login **********
+2025-12-23 11:23:20 - automation - INFO - ********** Verifying Home Page Title **********
+2025-12-23 11:23:21 - automation - INFO - ********** Home Page Title Test Passed **********
+2025-12-23 11:23:21 - automation - INFO - Launching Chrome browser with UC
+2025-12-23 11:23:22 - automation - INFO - ********** Verifying Login Test **********
+2025-12-23 11:23:28 - automation - INFO - ********** Login Test Passed **********
+2025-12-23 11:24:21 - automation - INFO - Cleaned up pytest HTML report metadata
+2025-12-23 11:24:21 - automation - INFO - Configured pytest HTML report metadata
+2025-12-23 11:24:21 - automation - INFO - Launching Chrome browser with UC
+2025-12-23 11:24:24 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\Snehal\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-12-23 11:24:29 - automation - INFO - ********** Test_001_Login **********
+2025-12-23 11:24:29 - automation - INFO - ********** Verifying Home Page Title **********
+2025-12-23 11:24:33 - automation - INFO - ********** Home Page Title Test Passed **********
+2025-12-23 11:24:33 - automation - INFO - Launching Chrome browser with UC
+2025-12-23 11:24:33 - automation - INFO - ********** Verifying Login Test **********
+2025-12-23 11:24:40 - automation - INFO - ********** Login Test Passed **********
+2025-12-23 11:26:01 - automation - INFO - Cleaned up pytest HTML report metadata
+2025-12-23 11:26:01 - automation - INFO - Configured pytest HTML report metadata
+2025-12-23 11:26:01 - automation - INFO - Launching Chrome browser with UC
+2025-12-23 11:26:47 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\Snehal\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-12-23 11:26:52 - automation - INFO - ********** Test_001_Login **********
+2025-12-23 11:26:52 - automation - INFO - ********** Verifying Home Page Title **********
+2025-12-23 11:26:54 - automation - INFO - ********** Home Page Title Test Passed **********
+2025-12-23 11:26:54 - automation - INFO - Launching Chrome browser with UC
+2025-12-23 11:26:55 - automation - INFO - ********** Verifying Login Test **********
+2025-12-23 11:27:00 - automation - INFO - ********** Login Test Passed **********
+2025-12-23 11:30:44 - automation - INFO - Cleaned up pytest HTML report metadata
+2025-12-23 11:30:44 - automation - INFO - Configured pytest HTML report metadata
+2025-12-23 11:30:44 - automation - INFO - Launching Chrome browser with UC
+2025-12-23 11:31:19 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\Snehal\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-12-23 11:31:24 - automation - INFO - ********** Test_001_Login **********
+2025-12-23 11:31:24 - automation - INFO - ********** Verifying Home Page Title **********
+2025-12-23 11:31:28 - automation - INFO - ********** Home Page Title Test Passed **********
+2025-12-23 11:31:28 - automation - INFO - Launching Chrome browser with UC
+2025-12-23 11:31:29 - automation - INFO - ********** Verifying Login Test **********
+2025-12-23 11:31:36 - automation - INFO - ********** Login Test Passed **********
+2025-12-23 11:37:24 - automation - INFO - Updated pytest HTML report metadata
+2025-12-23 11:37:24 - automation - INFO - Launching Chrome browser with UC
+2025-12-23 11:38:04 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\Snehal\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-12-23 11:38:09 - automation - INFO - ********** Test_001_Login **********
+2025-12-23 11:38:09 - automation - INFO - ********** Verifying Home Page Title **********
+2025-12-23 11:38:11 - automation - INFO - ********** Home Page Title Test Passed **********
+2025-12-23 11:38:11 - automation - INFO - Launching Chrome browser with UC
+2025-12-23 11:38:12 - automation - INFO - ********** Verifying Login Test **********
+2025-12-23 11:38:17 - automation - INFO - ********** Login Test Passed **********
+2025-12-23 12:12:51 - automation - INFO - Updated pytest HTML report metadata
+2025-12-23 12:12:57 - automation - INFO - Launching Chrome browser with UC
+2025-12-23 12:13:50 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\Snehal\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-12-23 12:13:55 - automation - INFO - ********** Test_002_Data_Driven_Login **********
+2025-12-23 12:13:55 - automation - INFO - ********** Verifying Data Driven Login Test **********
+2025-12-23 12:15:20 - automation - INFO - Updated pytest HTML report metadata
+2025-12-23 12:15:20 - automation - INFO - Launching Chrome browser with UC
+2025-12-23 12:15:26 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\Snehal\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-12-23 12:15:31 - automation - INFO - ********** Test_002_Data_Driven_Login **********
+2025-12-23 12:15:31 - automation - INFO - ********** Verifying Data Driven Login Test **********
+2025-12-23 12:15:40 - automation - INFO - ********** Passed **********
+2025-12-23 12:17:02 - automation - INFO - Updated pytest HTML report metadata
+2025-12-23 12:17:03 - automation - INFO - Launching Chrome browser with UC
+2025-12-23 12:18:27 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\Snehal\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-12-23 12:18:32 - automation - INFO - ********** Test_002_Data_Driven_Login **********
+2025-12-23 12:18:32 - automation - INFO - ********** Verifying Data Driven Login Test **********
+2025-12-23 12:18:39 - automation - INFO - ********** Passed **********
+2025-12-23 12:18:43 - automation - INFO - ********** Passed **********
+2025-12-23 12:18:45 - automation - INFO - ********** Passed **********
+2025-12-23 12:18:46 - automation - INFO - ********** Passed **********
+2025-12-23 12:18:46 - automation - INFO - ********** Data Driven Login Test Passed **********
+2025-12-23 12:18:46 - automation - INFO - ********** End of Data Driven Login Test **********
+2025-12-23 12:18:46 - automation - INFO - ********** Completed Test_002_Data_Driven_Login **********
+2025-12-23 21:26:06 - automation - INFO - Updated pytest HTML report metadata
+2025-12-23 21:26:06 - automation - INFO - Launching Chrome browser with UC
+2025-12-23 21:27:23 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\Snehal\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-12-23 21:27:28 - automation - INFO - ********** Test_003_AddCustomer **********
+2025-12-23 21:27:36 - automation - INFO - ********** Login Successful **********
+2025-12-23 21:27:38 - automation - INFO - ********** Providing Customer Info **********
+2025-12-23 21:29:47 - automation - INFO - Updated pytest HTML report metadata
+2025-12-23 21:29:47 - automation - INFO - Launching Chrome browser with UC
+2025-12-23 21:30:07 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\Snehal\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-12-23 21:30:11 - automation - INFO - ********** Test_003_AddCustomer **********
+2025-12-23 21:30:16 - automation - INFO - ********** Login Successful **********
+2025-12-23 21:31:53 - automation - INFO - Updated pytest HTML report metadata
+2025-12-23 21:31:53 - automation - INFO - Launching Chrome browser with UC
+2025-12-23 21:32:14 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\Snehal\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-12-23 21:32:19 - automation - INFO - ********** Test_003_AddCustomer **********
+2025-12-23 21:32:28 - automation - INFO - ********** Login Successful **********
+2025-12-23 21:50:16 - automation - INFO - Updated pytest HTML report metadata
+2025-12-23 21:50:16 - automation - INFO - Launching Chrome browser with UC
+2025-12-23 21:50:23 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\Snehal\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-12-23 21:50:29 - automation - INFO - ********** Test_003_AddCustomer **********
+2025-12-23 21:50:34 - automation - INFO - ********** Login Successful **********
+2025-12-23 21:52:41 - automation - INFO - Updated pytest HTML report metadata
+2025-12-23 21:52:42 - automation - INFO - Launching Chrome browser with UC
+2025-12-23 21:52:46 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\Snehal\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-12-23 21:52:51 - automation - INFO - ********** Test_003_AddCustomer **********
+2025-12-23 21:52:59 - automation - INFO - ********** Login Successful **********
+2025-12-26 15:26:06 - automation - INFO - Updated pytest HTML report metadata
+2025-12-26 15:26:06 - automation - INFO - Launching Chrome browser with UC
+2025-12-26 15:26:08 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\Snehal\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-12-26 15:26:12 - automation - INFO - ********** Test_003_AddCustomer **********
+2025-12-26 15:26:18 - automation - INFO - ********** Login Successful **********
+2025-12-26 15:32:46 - automation - INFO - Updated pytest HTML report metadata
+2025-12-26 15:32:46 - automation - INFO - Launching Chrome browser with UC
+2025-12-26 15:33:20 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\Snehal\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-12-26 15:33:25 - automation - INFO - ********** Test_003_AddCustomer **********
+2025-12-26 15:33:31 - automation - INFO - ********** Login Successful **********
+2025-12-26 15:36:01 - automation - INFO - Updated pytest HTML report metadata
+2025-12-26 15:36:01 - automation - INFO - Launching Chrome browser with UC
+2025-12-26 15:36:04 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\Snehal\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-12-26 15:36:09 - automation - INFO - ********** Test_003_AddCustomer **********
+2025-12-26 15:36:14 - automation - INFO - ********** Login Successful **********
+2025-12-26 15:36:18 - automation - INFO - ********** Providing Customer Info **********
+2025-12-26 15:41:22 - automation - INFO - Updated pytest HTML report metadata
+2025-12-26 15:41:22 - automation - INFO - Launching Chrome browser with UC
+2025-12-26 15:41:25 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\Snehal\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-12-26 15:41:29 - automation - INFO - ********** Test_003_AddCustomer **********
+2025-12-26 15:41:34 - automation - INFO - ********** Login Successful **********
+2025-12-26 15:41:39 - automation - INFO - ********** Providing Customer Info **********
+2025-12-26 15:43:05 - automation - INFO - Updated pytest HTML report metadata
+2025-12-26 15:43:05 - automation - INFO - Launching Chrome browser with UC
+2025-12-26 15:43:07 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\Snehal\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-12-26 15:43:12 - automation - INFO - ********** Test_003_AddCustomer **********
+2025-12-26 15:43:17 - automation - INFO - ********** Login Successful **********
+2025-12-26 15:43:21 - automation - INFO - ********** Providing Customer Info **********
+2025-12-26 15:49:20 - automation - INFO - Updated pytest HTML report metadata
+2025-12-26 15:49:20 - automation - INFO - Launching Chrome browser with UC
+2025-12-26 15:49:22 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\Snehal\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-12-26 15:49:27 - automation - INFO - ********** Test_003_AddCustomer **********
+2025-12-26 15:49:31 - automation - INFO - ********** Login Successful **********
+2025-12-26 15:49:33 - automation - INFO - ********** Providing Customer Info **********
+2025-12-26 15:50:42 - automation - INFO - Updated pytest HTML report metadata
+2025-12-26 15:50:42 - automation - INFO - Launching Chrome browser with UC
+2025-12-26 15:50:46 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\Snehal\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-12-26 15:50:50 - automation - INFO - ********** Test_003_AddCustomer **********
+2025-12-26 15:50:53 - automation - INFO - ********** Login Successful **********
+2025-12-26 15:51:21 - automation - INFO - Updated pytest HTML report metadata
+2025-12-26 15:51:21 - automation - INFO - Launching Chrome browser with UC
+2025-12-26 15:51:24 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\Snehal\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-12-26 15:51:29 - automation - INFO - ********** Test_003_AddCustomer **********
+2025-12-26 15:51:33 - automation - INFO - ********** Login Successful **********
+2025-12-26 15:54:07 - automation - INFO - Updated pytest HTML report metadata
+2025-12-26 15:54:07 - automation - INFO - Launching Chrome browser with UC
+2025-12-26 15:54:10 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\Snehal\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-12-26 15:54:15 - automation - INFO - ********** Test_003_AddCustomer **********
+2025-12-26 15:54:18 - automation - INFO - ********** Login Successful **********
+2025-12-26 15:54:20 - automation - INFO - ********** Providing Customer Info **********
+2025-12-26 15:54:31 - automation - INFO - ********** Saving Customer Info **********
+2025-12-26 15:55:40 - automation - INFO - Updated pytest HTML report metadata
+2025-12-26 15:55:40 - automation - INFO - Launching Chrome browser with UC
+2025-12-26 15:55:42 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\Snehal\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-12-26 15:55:47 - automation - INFO - ********** Test_003_AddCustomer **********
+2025-12-26 15:55:50 - automation - INFO - ********** Login Successful **********
+2025-12-26 15:56:13 - automation - INFO - Updated pytest HTML report metadata
+2025-12-26 15:56:13 - automation - INFO - Launching Chrome browser with UC
+2025-12-26 15:56:15 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\Snehal\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-12-26 15:56:19 - automation - INFO - ********** Test_003_AddCustomer **********
+2025-12-26 15:56:23 - automation - INFO - ********** Login Successful **********
+2025-12-26 15:56:25 - automation - INFO - ********** Providing Customer Info **********
+2025-12-26 15:56:35 - automation - INFO - ********** Saving Customer Info **********
+2025-12-26 15:58:45 - automation - INFO - Updated pytest HTML report metadata
+2025-12-26 15:58:45 - automation - INFO - Launching Chrome browser with UC
+2025-12-26 15:58:48 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\Snehal\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-12-26 15:58:53 - automation - INFO - ********** Test_003_AddCustomer **********
+2025-12-26 15:58:58 - automation - INFO - ********** Login Successful **********
+2025-12-26 15:59:15 - automation - INFO - Updated pytest HTML report metadata
+2025-12-26 15:59:15 - automation - INFO - Launching Chrome browser with UC
+2025-12-26 15:59:19 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\Snehal\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-12-26 15:59:24 - automation - INFO - ********** Test_003_AddCustomer **********
+2025-12-26 15:59:29 - automation - INFO - ********** Login Successful **********
+2025-12-26 15:59:31 - automation - INFO - ********** Providing Customer Info **********
+2025-12-26 16:00:45 - automation - INFO - Updated pytest HTML report metadata
+2025-12-26 16:00:45 - automation - INFO - Launching Chrome browser with UC
+2025-12-26 16:00:57 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\Snehal\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-12-26 16:01:01 - automation - INFO - ********** Test_003_AddCustomer **********
+2025-12-26 16:01:07 - automation - INFO - ********** Login Successful **********
+2025-12-26 16:01:08 - automation - INFO - ********** Providing Customer Info **********
+2025-12-26 16:01:20 - automation - INFO - ********** Saving Customer Info **********
+2025-12-26 16:01:21 - automation - INFO - ********** Add Customer Test Passed **********
+2025-12-26 16:03:06 - automation - INFO - Updated pytest HTML report metadata
+2025-12-26 16:03:07 - automation - INFO - Launching Chrome browser with UC
+2025-12-26 16:03:09 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\Snehal\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-12-26 16:03:14 - automation - INFO - ********** Test_003_AddCustomer **********
+2025-12-26 16:03:18 - automation - INFO - ********** Login Successful **********
+2025-12-26 16:03:52 - automation - INFO - Updated pytest HTML report metadata
+2025-12-26 16:03:52 - automation - INFO - Launching Chrome browser with UC
+2025-12-26 16:03:54 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\Snehal\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-12-26 16:03:59 - automation - INFO - ********** Test_003_AddCustomer **********
+2025-12-26 16:04:04 - automation - INFO - ********** Login Successful **********
+2025-12-26 16:04:39 - automation - INFO - Updated pytest HTML report metadata
+2025-12-26 16:04:39 - automation - INFO - Launching Chrome browser with UC
+2025-12-26 16:04:42 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\Snehal\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-12-26 16:04:46 - automation - INFO - ********** Test_003_AddCustomer **********
+2025-12-26 16:04:49 - automation - INFO - ********** Login Successful **********
+2025-12-26 16:04:51 - automation - INFO - ********** Providing Customer Info **********
+2025-12-26 16:04:59 - automation - INFO - ********** Saving Customer Info **********
+2025-12-26 16:07:03 - automation - INFO - Updated pytest HTML report metadata
+2025-12-26 16:07:03 - automation - INFO - Launching Chrome browser with UC
+2025-12-26 16:07:06 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\Snehal\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-12-26 16:07:11 - automation - INFO - ********** Test_003_AddCustomer **********
+2025-12-26 16:07:14 - automation - INFO - ********** Login Successful **********
+2025-12-26 16:07:39 - automation - INFO - Updated pytest HTML report metadata
+2025-12-26 16:07:39 - automation - INFO - Launching Chrome browser with UC
+2025-12-26 16:07:41 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\Snehal\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-12-26 16:07:46 - automation - INFO - ********** Test_003_AddCustomer **********
+2025-12-26 16:07:50 - automation - INFO - ********** Login Successful **********
+2025-12-26 16:07:52 - automation - INFO - ********** Providing Customer Info **********
+2025-12-26 16:08:00 - automation - INFO - ********** Saving Customer Info **********
+2025-12-26 16:08:00 - automation - INFO - ********** Add Customer Test Passed **********
+2025-12-26 16:08:01 - automation - INFO - ********** Ending Test_003_AddCustomer **********
+2025-12-26 16:08:21 - automation - INFO - Updated pytest HTML report metadata
+2025-12-26 16:08:21 - automation - INFO - Launching Chrome browser with UC
+2025-12-26 16:08:24 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\Snehal\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-12-26 16:08:28 - automation - INFO - ********** Test_003_AddCustomer **********
+2025-12-26 16:08:31 - automation - INFO - ********** Login Successful **********
+2025-12-26 16:08:34 - automation - INFO - ********** Providing Customer Info **********
+2025-12-26 16:08:42 - automation - INFO - ********** Saving Customer Info **********
+2025-12-26 16:08:43 - automation - INFO - ********** Add Customer Test Passed **********
+2025-12-26 16:08:43 - automation - INFO - ********** Ending Test_003_AddCustomer **********
+2025-12-26 16:13:15 - automation - INFO - Updated pytest HTML report metadata
+2025-12-26 16:13:15 - automation - INFO - Launching Chrome browser with UC
+2025-12-26 16:13:19 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\Snehal\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-12-26 16:13:24 - automation - INFO - ********** Test_003_AddCustomer **********
+2025-12-26 16:13:27 - automation - INFO - ********** Login Successful **********
+2025-12-26 16:13:29 - automation - INFO - ********** Providing Customer Info **********
+2025-12-26 16:13:37 - automation - INFO - ********** Saving Customer Info **********
+2025-12-26 16:13:37 - automation - INFO - ********** Add Customer Test Passed **********
+2025-12-26 16:13:37 - automation - INFO - ********** Ending Test_003_AddCustomer **********
+2025-12-26 18:18:34 - automation - INFO - Updated pytest HTML report metadata
+2025-12-26 18:18:34 - automation - INFO - Launching Chrome browser with UC
+2025-12-26 18:18:37 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\Snehal\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-12-26 18:18:42 - automation - INFO - ********** Test_004_SearchCustomerByEmail **********
+2025-12-26 18:18:47 - automation - INFO - ********** Login Successful **********
+2025-12-26 18:18:47 - automation - INFO - ********** Searching Customer by Email ID **********
+2025-12-26 18:18:54 - automation - INFO - ********** Search Customer by Email ID Successful **********
+2025-12-26 18:18:54 - automation - INFO - ********** Test_004_SearchCustomerByEmail Finished **********
+2025-12-26 18:22:12 - automation - INFO - Updated pytest HTML report metadata
+2025-12-26 18:22:12 - automation - INFO - Launching Chrome browser with UC
+2025-12-26 18:22:15 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\Snehal\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-12-26 18:22:20 - automation - INFO - ********** Test_004_SearchCustomerByEmail **********
+2025-12-26 18:22:25 - automation - INFO - ********** Login Successful **********
+2025-12-26 18:22:26 - automation - INFO - ********** Searching Customer by Email ID **********
+2025-12-26 18:22:33 - automation - INFO - ********** Search Customer by Name Successful **********
+2025-12-26 18:22:33 - automation - INFO - ********** Test_005_SearchCustomerByName Finished **********
+2025-12-26 18:23:59 - automation - INFO - Updated pytest HTML report metadata
+2025-12-26 18:23:59 - automation - INFO - Launching Firefox browser
+2025-12-26 18:24:08 - automation - INFO - ********** Test_005_SearchCustomerByName **********
+2025-12-26 18:24:11 - automation - INFO - ********** Login Successful **********
+2025-12-26 18:24:33 - automation - INFO - Updated pytest HTML report metadata
+2025-12-26 18:24:33 - automation - INFO - Launching Chrome browser with UC
+2025-12-26 18:24:37 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\Snehal\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-12-26 18:24:42 - automation - INFO - ********** Test_005_SearchCustomerByName **********
+2025-12-26 18:24:47 - automation - INFO - ********** Login Successful **********
+2025-12-26 18:24:48 - automation - INFO - ********** Searching Customer by Name **********
+2025-12-26 18:24:55 - automation - INFO - ********** Search Customer by Name Successful **********
+2025-12-26 18:24:55 - automation - INFO - ********** Test_005_SearchCustomerByName Finished **********
+2025-12-26 18:43:38 - automation - INFO - Updated pytest HTML report metadata
+2025-12-26 18:43:43 - automation - INFO - Launching Chrome browser with UC
+2025-12-26 18:43:46 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\Snehal\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-12-26 18:43:51 - automation - INFO - ********** Test_003_AddCustomer **********
+2025-12-26 18:43:55 - automation - INFO - ********** Login Successful **********
+2025-12-26 18:43:58 - automation - INFO - ********** Providing Customer Info **********
+2025-12-26 18:44:06 - automation - INFO - ********** Saving Customer Info **********
+2025-12-26 18:44:06 - automation - INFO - ********** Add Customer Test Passed **********
+2025-12-26 18:44:06 - automation - INFO - ********** Ending Test_003_AddCustomer **********
+2025-12-26 18:44:07 - automation - INFO - Launching Chrome browser with UC
+2025-12-26 18:44:09 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\Snehal\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-12-26 18:44:14 - automation - INFO - ********** Verifying Login Test **********
+2025-12-26 18:44:18 - automation - INFO - ********** Login Test Passed **********
+2025-12-26 18:52:17 - automation - INFO - Updated pytest HTML report metadata
+2025-12-26 18:52:18 - automation - INFO - Launching Chrome browser with UC
+2025-12-26 18:52:22 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\Snehal\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-12-26 18:52:27 - automation - INFO - ********** Test_003_AddCustomer **********
+2025-12-26 18:52:30 - automation - INFO - ********** Login Successful **********
+2025-12-26 18:52:32 - automation - INFO - ********** Providing Customer Info **********
+2025-12-26 18:52:41 - automation - INFO - ********** Saving Customer Info **********
+2025-12-26 18:52:41 - automation - INFO - ********** Add Customer Test Passed **********
+2025-12-26 18:52:41 - automation - INFO - ********** Ending Test_003_AddCustomer **********
+2025-12-26 18:52:42 - automation - INFO - Launching Chrome browser with UC
+2025-12-26 18:52:44 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\Snehal\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-12-26 18:52:49 - automation - INFO - ********** Verifying Login Test **********
+2025-12-26 18:52:52 - automation - INFO - ********** Login Test Passed **********
+2025-12-26 18:57:03 - automation - INFO - Updated pytest HTML report metadata
+2025-12-26 18:57:03 - automation - INFO - Launching Chrome browser with UC
+2025-12-26 18:57:07 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\Snehal\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-12-26 18:57:12 - automation - INFO - ********** Test_003_AddCustomer **********
+2025-12-26 18:57:16 - automation - INFO - ********** Login Successful **********
+2025-12-26 18:57:17 - automation - INFO - Launching Chrome browser with UC
+2025-12-26 18:57:17 - automation - INFO - ********** Verifying Login Test **********
+2025-12-26 18:57:21 - automation - INFO - ********** Login Test Passed **********
+2025-12-26 18:57:24 - automation - INFO - Updated pytest HTML report metadata
+2025-12-26 18:57:25 - automation - INFO - Launching Chrome browser with UC
+2025-12-26 18:57:27 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\Snehal\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-12-26 18:57:32 - automation - INFO - ********** Verifying Login Test **********
+2025-12-26 18:57:35 - automation - INFO - ********** Login Test Passed **********
