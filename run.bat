@@ -1,5 +1,5 @@
-pytest -s -v -m "sanity" --browser_name=chrome testCases/ --html=reports/report_chrome.html --self-contained-html
-REM pytest -s -v -m "sanity or regression" --browser_name=chrome testCases/ --html=reports/report_chrome.html --self-contained-html
+REM pytest -s -v -m "sanity" --browser_name=chrome testCases/ --html=reports/report_chrome.html --self-contained-html
+pytest -s -v -m "sanity or regression" --browser_name=chrome testCases/ --html=reports/report_chrome.html --self-contained-html
 REM pytest -s -v -m "sanity and regression" --browser_name=chrome testCases/ --html=reports/report_chrome.html --self-contained-html
 REM pytest -s -v -m "regression" --browser_name=chrome testCases/ --html=reports/report_chrome.html --self-contained-html
 
