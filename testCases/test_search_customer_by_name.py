@@ -48,6 +48,6 @@ class Test_005_SearchCustomerByName:
         status = self.searchcust.searchCustomerByName("John Smith")
         assert True == status
         self.logger.info("********** Search Customer by Name Successful **********")
-        self.driver.close()
+        self.driver.quit()
         self.logger.info("********** Test_005_SearchCustomerByName Finished **********")
 

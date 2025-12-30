@@ -26,6 +26,8 @@ def setup(browser):
         options = uc.ChromeOptions()
         options.add_argument("--disable-blink-features=AutomationControlled")
         options.add_argument("--start-maximized")
+        # options.add_argument("--disable-extensions")
+        # options.add_argument("--headless=new")  # Optional: run in headless mode
         logger.info("Launching Chrome browser with UC")
         driver = uc.Chrome(options=options)
 
@@ -33,6 +35,7 @@ def setup(browser):
         options = webdriver.FirefoxOptions()
         options.add_argument("--disable-blink-features=AutomationControlled")
         options.add_argument("--start-maximized")
+        # options.add_argument("--headless")  # Optional: run in headless mode
         logger.info("Launching Firefox browser")
         driver = webdriver.Firefox(options=options)
 
@@ -40,6 +43,7 @@ def setup(browser):
         options = webdriver.EdgeOptions()
         options.add_argument("--disable-blink-features=AutomationControlled")
         options.add_argument("--start-maximized")
+        # options.add_argument("--headless=new")  # Optional: run in headless mode
         logger.info("Launching Edge browser")
         driver = webdriver.Edge(options=options)
 
@@ -48,6 +52,8 @@ def setup(browser):
         options = uc.ChromeOptions()
         options.add_argument("--disable-blink-features=AutomationControlled")
         options.add_argument("--start-maximized")
+        # options.add_argument("--disable-extensions")
+        # options.add_argument("--headless=new")  # Optional: run in headless mode
         driver = uc.Chrome(options=options)
 
     return driver

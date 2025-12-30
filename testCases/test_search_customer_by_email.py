@@ -47,6 +47,6 @@ class Test_004_SearchCustomerByEmail:
         status = self.searchcust.searchCustomerByEmail("steve_gates@nopCommerce.com")
         assert True == status
         self.logger.info("********** Search Customer by Email ID Successful **********")
-        self.driver.close()
+        self.driver.quit()
         self.logger.info("********** Test_004_SearchCustomerByEmail Finished **********")
 

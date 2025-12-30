@@ -72,11 +72,11 @@ class Test_002_Data_Driven_Login:
         # Final Assertion
         if "Fail" not in status:
             self.logger.info("********** Data Driven Login Test Passed **********")
-            self.driver.close()
+            self.driver.quit()
             assert True
         else:
             self.logger.info("********** Data Driven Login Test Failed **********")
-            self.driver.close()
+            self.driver.quit()
             assert False
         
         self.logger.info("********** End of Data Driven Login Test **********")

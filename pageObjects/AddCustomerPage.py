@@ -6,7 +6,8 @@ from selenium.webdriver.support import expected_conditions as EC
 
 class AddCustomer:
     # Add customer page locators
-    lnk_customers_menu_xpath = "//p[normalize-space()='Customers']"
+    lnk_customers_menu_xpath = "//a[@href='#']//p[contains(text(),'Customers')]"
+    # "//p[normalize-space()='Customers']"
     # //i[contains(@class,'right fas fa-angle-left')]"
     lnk_customers_menuitem_xpath = "//a[@href='/Admin/Customer/List']//p[contains(text(),'Customers')]"
     btn_addnew_xpath = "//a[@class='btn btn-primary']"

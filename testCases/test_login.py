@@ -65,12 +65,12 @@ class Test_001_Login:
         
         # Assertion
         if act_title == "Dashboard / nopCommerce administration":
-            self.driver.close()
+            self.driver.quit()
             assert True
             self.logger.info("********** Login Test Passed **********")
         
         else:
             self.driver.save_screenshot(".\\screenshots\\" + "test_login.png")
-            self.driver.close()
+            self.driver.quit()
             assert False
             self.logger.error("********** Login Test Failed **********")

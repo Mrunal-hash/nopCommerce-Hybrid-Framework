@@ -65,13 +65,14 @@ class Test_003_AddCustomer:
         if "The new customer has been added successfully." in self.msg:
             assert True
             self.logger.info("********** Add Customer Test Passed **********")
+            self.driver.quit()
         
         else:
             self.driver.save_screenshot(".\\screenshots\\" + "test_addCustomer.png")
             self.logger.error("********** Add Customer Test Failed **********")
             assert False
+            self.driver.quit()
         
         self.logger.info("********** Ending Test_003_AddCustomer **********")
-        self.driver.quit()
 
 
